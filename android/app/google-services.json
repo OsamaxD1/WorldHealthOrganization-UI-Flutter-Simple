@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280055979008",
+    "firebase_url": "https://news-update-ec706.firebaseio.com",
+    "project_id": "news-update-ec706",
+    "storage_bucket": "news-update-ec706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280055979008:android:76bd20078063ea9e9b4ce5",
+        "android_client_info": {
+          "package_name": "com.example.flutternewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280055979008-92bio6q9guri60h9nmui1q6b7g4c595f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJJcuMVs2RDu81SwZbbauKD3g9cq_YYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280055979008-92bio6q9guri60h9nmui1q6b7g4c595f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
